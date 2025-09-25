@@ -4,14 +4,34 @@
 
 
 <!--
-|  |  |  | 
+|Team Leader|Team Member1Team Member2| 
 --|--|--|
+| | | | 
+
+|Team Member3|Team Member4|Team Member5|Team Member6| 
+--|--|--|--|
+| | | | |
 
 -->
 
 ## ROLE
 
+### 문우진
+-
 
+
+### 김병현
+
+### 김을중
+
+### 박승범
+
+### 안재용
+
+### 오정일
+
+### 정은지
+- 
 
 ## 연구 배경
 
