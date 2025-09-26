@@ -46,9 +46,17 @@
 
 ### SW
 
-|START|SELECT|PERFECT|GOOD|BAD|
----|--|--|--|--
-|<img src="/History/img/sw/sw_1.png" alt="스위치 화면" width="400">|<img src="/History/img/sw/sw_2.png" alt="스위치 화면" width="400">|<img src="/History/img/sw/sw_3.png" alt="스위치 화면" width="400">|<img src="/History/img/sw/sw_4.png" alt="스위치 화면" width="400">|<img src="/History/img/sw/sw_5.png" alt="스위치 화면" width="400">|
+|START|SELECT|
+---|--|
+|<img src="/History/img/sw/sw_1.png" alt="스위치 화면" width="400">|<img src="/History/img/sw/sw_2.png" alt="스위치 화면" width="400">|
+
+PERFECT|GOOD|BAD|
+--|--|--
+<img src="/History/img/sw/sw_3.png" alt="스위치 화면" width="400">|<img src="/History/img/sw/sw_4.png" alt="스위치 화면" width="400">|<img src="/History/img/sw/sw_5.png" alt="스위치 화면" width="400">|
+
+|ENDING|RANKING PAGE|
+---|--|
+|<img src="/History/img/sw/sw_6.png" alt="스위치 화면" width="400">|<img src="/History/img/sw/sw_7.png" alt="스위치 화면" width="400">|
 
 ### HW
 
