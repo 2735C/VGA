@@ -38,25 +38,32 @@
 
 ## Game Rule
 
-|![게임 화면](https://github.com/2735C/VGA/blob/main/History/img/another/game_1.gif)| :one: 패턴을 확인한다. <br> :two: 패턴에 맞춰 몸을 맞춘다. <br> :three: 점수를 확인한다. |
---|--
+<table>
+  <tr>
+    <td align="center" width="400">
+      <img src="https://github.com/2735C/VGA/blob/main/History/img/another/game_1.gif?raw=true" width="380" alt="게임 화면">
+    </td>
+    <td width="400">
+      :one: 패턴을 확인한다. <br>
+      :two: 패턴에 맞춰 몸을 맞춘다. <br>
+      :three: 점수를 확인한다.
+    </td>
+  </tr>
+</table>
 
 
 ## 프로젝트 과정
 
 ### SW
 
-|START|SELECT|
----|--|
-|<img src="/History/img/sw/sw_1.png" alt="스위치 화면" width="400">|<img src="/History/img/sw/sw_2.png" alt="스위치 화면" width="400">|
+|START|SELECT|ENDING
+---|--|--
+|<img src="/History/img/sw/sw_1.png" alt="스위치 화면" width="400">|<img src="/History/img/sw/sw_2.png" alt="스위치 화면" width="400">|<img src="/History/img/sw/sw_6.png" alt="스위치 화면" width="400">
 
 PERFECT|GOOD|BAD|
 --|--|--
 <img src="/History/img/sw/sw_3.png" alt="스위치 화면" width="400">|<img src="/History/img/sw/sw_4.png" alt="스위치 화면" width="400">|<img src="/History/img/sw/sw_5.png" alt="스위치 화면" width="400">|
 
-|ENDING|RANKING PAGE|
----|--|
-|<img src="/History/img/sw/sw_6.png" alt="스위치 화면" width="400">|<img src="/History/img/sw/sw_7.png" alt="스위치 화면" width="400">|
 
 ### HW
 
