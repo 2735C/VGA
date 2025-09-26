@@ -16,21 +16,21 @@
 
 ## ROLE
 
-### 문우진
+#### 문우진
 -
 
 
-### 김병현
+#### 김병현
 
-### 김을중
+#### 김을중
 
-### 박승범
+#### 박승범
 
-### 안재용
+#### 안재용
 
-### 오정일
+#### 오정일
 
-### 정은지
+#### 정은지
 - 
 
 ## 연구 배경
@@ -45,6 +45,10 @@
 ## 프로젝트 과정
 
 ### SW
+
+|START|SELECT|PERFECT|GOOD|BAD|
+---|--|--|--|--
+|<img src="/History/img/sw/sw_1.png" alt="스위치 화면" width="400">|<img src="/History/img/sw/sw_2.png" alt="스위치 화면" width="400">|<img src="/History/img/sw/sw_3.png" alt="스위치 화면" width="400">|<img src="/History/img/sw/sw_4.png" alt="스위치 화면" width="400">|<img src="/History/img/sw/sw_5.png" alt="스위치 화면" width="400">|
 
 ### HW
 
