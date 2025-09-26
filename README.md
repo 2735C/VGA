@@ -38,7 +38,7 @@
 
 ## Game Rule
 
-|![게임 화면](https://github.com/2735C/VGA/blob/main/History/img/another/game_1.gif)| :one: <br> :two: br |
+|![게임 화면](https://github.com/2735C/VGA/blob/main/History/img/another/game_1.gif)| :one: 패턴을 확인한다. <br> :two: 패턴에 맞춰 몸을 맞춘다. <br> :three: 점수를 확인한다. |
 --|--
 
 
