@@ -38,6 +38,10 @@
 
 ## Game Rule
 
+|![게임 화면](/History/img/another/game_1.gif)| :one: <br> |
+--|--
+
+
 ## 프로젝트 과정
 
 ### SW
