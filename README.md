@@ -38,7 +38,7 @@
 
 ## Game Rule
 
-|![게임 화면](/History/img/another/game_1.gif)| :one: <br> |
+|![게임 화면](https://github.com/2735C/VGA/blob/main/History/img/another/game_1.gif)| :one: <br> :two: br |
 --|--
 
 
