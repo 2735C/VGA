@@ -44,14 +44,29 @@
       <img src="https://github.com/2735C/VGA/blob/main/History/img/another/game_1.gif?raw=true" width="380" alt="게임 화면">
     </td>
     <td width="400">
-      <span style="font-size:20px; font-weight:bold;">RULE</span><br><br>
-      :one: 패턴을 확인한다. <br>
-      :two: 패턴에 맞춰 몸을 맞춘다. <br>
-      :three: 점수를 확인한다.
-      :four: 랭킹칸에 이름을 입력한다.
+      <span style="font-size:25px; font-weight:bold;">:one: 패턴을 확인한다. </span><br><br>
+      <span style="font-size:25px; font-weight:bold;">:two: 패턴에 맞춰 몸을 맞춘다. </span><br><br>
+      <span style="font-size:25px; font-weight:bold;">:three: 점수를 확인한다. </span><br><br>
+      <span style="font-size:25px; font-weight:bold;">:four: 랭킹칸에 이름을 입력한다. </span><br><br>
     </td>
   </tr>
 </table>
+
+
+## 연구 일정 250911~250926
+
+
+|        | 9/8~9/10| 9/11~9/13| 9/13 | 
+--       | ------- | ---- | ---- |
+주제 선정 |    O    |      |      |      
+역할 분담 |         |   O  |      | 
+필터 설계 |         |   O  |      | 
+SCCB 설계|         |   O  |      | 
+Zybo Board|        |   O  |      | 
+GU1 설계  |  |   O  |      | 
+HW 설계  |  |   O  |      | 
+발표 자료 준비  | |   O  |      | 
+
 
 
 ## 프로젝트 과정
